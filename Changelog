@@ -1,0 +1,14 @@
+06.05.2011
+    add touchscreen support
+11.03.2011
+    fix external levels load - thanks to mnk
+07.03.2011
+    yuryfdr:
+    fix level completition with gsensor control
+06.03.2011
+    yuryfdr:
+    improve gsensor
+05.03.2011
+    yuryfdr:
+    add Makefile.pro
+    add gsensor support
